@@ -1,4 +1,5 @@
 .home {
+  display: flex;
   max-width: 760px;
   margin: 40px auto;
   letter-spacing: 1px;
